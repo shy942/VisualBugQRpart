@@ -14,17 +14,29 @@ ExampleProjectData/ConstructedQueries/ contains constructed queries.
 
 QR-Part/ConstructedQueries-QR/ contains constructed queries for QR queries. Please, save your reformulated queries in here.
 
+ExampleProjectData/SearchResults/ contains lucene seach resutls.
+
+QR-Part/SearchResults-QR/ contains lucene result for QR queries.
+
+ExampleProjectData/EvaluationResults contains the details results for each project.
+
+QR-Part/EvaluationResults-QR contains the details redults for each project for QR queries.
+
+ExampleProjectData/OrganizedData contains overall result for all bug reports. 
+
+QR-Part/OrganizedData-QR contains overall results of all bug report QR queries.
 
 BugIDs folder contains the information about bug reports which belong to which category. They are as follows:
-BugIDSFinal.txt - it contains IDs of all bug reports that are eligible for our experiments. The format is ProjectID-BugID. For example, 351-627  means the project is 351 and the bug report id is 627.
-UItext.txt - Bug report IDs that belong to UI with text category.
-PC.txt - Bug Report IDs that belong to the programming code category.
-Excp.txt - Exceptions and errors category.
-Git.txt - Git commands.
-Python.txt - Python commands.
-OtherCommand.txt - Other commands.
-English.txt - English texts.
-NotEnglish.txt - Other language texts.
+	BugIDSFinal.txt - it contains IDs of all bug reports that are eligible for our experiments. The format is ProjectID-BugID. For example, 351-627  means the project is 351 and the bug report id is 627.
+	UItext.txt - Bug report IDs that belong to UI with text category.
+	PC.txt - Bug Report IDs that belong to the programming code category.
+	Excp.txt - Exceptions and errors category.
+	Git.txt - Git commands.
+	Python.txt - Python commands.
+	OtherCommand.txt - Other commands.	
+	English.txt - English texts.
+	NotEnglish.txt - Other language texts.
+
 GroundTruths contains ground truth file information (i.e., gold set). For example, ground truth file for our first project name is groundtruth_1.txt. Here, the format is as follows: 
 		BugID NoOfSourCodeFiles
 		File1
