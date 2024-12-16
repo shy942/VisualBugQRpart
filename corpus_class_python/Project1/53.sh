@@ -1,0 +1,1 @@
+bin bash create spir binary save binary output text based bit hexadecimal numbers output file glslang validator glsl shader frag glsl shader frag glslang validator glsl shader vert glsl shader vert

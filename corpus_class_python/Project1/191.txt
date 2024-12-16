@@ -1,0 +1,1 @@
+imgui stdlib imgui stdlib cpp input text wrappers standard library stl type std string wrap types imgui scoped experimental main repository additional header file raii style wrappers common dear gui functions merging discuss extension fmt raii syntaxis sugar wiki

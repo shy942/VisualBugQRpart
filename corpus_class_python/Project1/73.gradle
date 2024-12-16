@@ -1,0 +1,1 @@
+buildscript ext kotlin version repositories google maven central dependencies classpath android tools build gradle classpath org jetbrains kotlin kotlin gradle plugin kotlin version allprojects repositories google maven central task clean type delete delete root project build dir

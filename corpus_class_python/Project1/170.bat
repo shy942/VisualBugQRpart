@@ -1,0 +1,1 @@
+rem build visual studio compiler copy vcvars bat vcvarsall bat setup command compiler set dir debug set exe win directx set includes backends dxsdk dir include set sources main cpp backends imgui impl cpp backends imgui impl win cpp imgui cpp set libs libpath dxsdk dir lib lib mkdir dir nologo utf includes unicode unicode sources dir exe exe dir link libs

@@ -1,0 +1,1 @@
+compile time options dear imgui allegro imconfig template allegro support bit vertex indices enable compile time option imgui bit indices pragma bit vertex indices allegro support bit avoid converting vertices format runtime define draw idx int

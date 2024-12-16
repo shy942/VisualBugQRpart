@@ -1,0 +1,1 @@
+rem build visual studio compiler copy vcvars bat vcvarsall bat setup command compiler mkdir debug nologo utf cpp cpp debug null exe debug link gdi lib shell lib imm lib
