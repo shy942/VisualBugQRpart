@@ -1,10 +1,10 @@
 ProjectBugReports contains information about bug reports (title, description, and extracted multimedia information). In particular, this folder contains another folder named DataWithProcessedImages, which includes project folders 1, 2, and so on. Under each project (e.g., 1), there are bug report folders, where the folder names represent the bug IDs. Each bug report folder contains the following information:
-title.txt - The title of the bug report.
-description.txt - The description of the bug report.
-imageURL.txt - The image URLs are attached to the bug reports. There might be one or more images. 
-BugIDNo.png - It is the image file itself. For example, for a bug report (id =1213) that contains only one attached image, the name of the image will be 12131.png.
-BugIDNoImageContent.txt—This file contains the extracted multimedia information using GPT-4o tools. For example, the file name for the above example will be 12131ImageContent.txt. We use the content of these files in this research. 
-BUgIDNoImageDescription.txt - This file contains a description of the attached image/s provided by the GPT-4o tool. For example, the file for the above example will be 12131ImageDescription.txt. We have yet to utilize this type of information in our research.
+	title.txt - The title of the bug report.
+	description.txt - The description of the bug report.
+	imageURL.txt - The image URLs are attached to the bug reports. There might be one or more images. 
+	BugIDNo.png - It is the image file itself. For example, for a bug report (id =1213) that contains only one attached image, the name of the image will be 12131.png.
+	BugIDNoImageContent.txt—This file contains the extracted multimedia information using GPT-4o tools. For example, the file name for the above example will be 12131ImageContent.txt. We use the content of these files in this research. 
+	BUgIDNoImageDescription.txt - This file contains a description of the attached image/s provided by the GPT-4o tool. For example, the file for the above example will be 12131ImageDescription.txt. We have yet to utilize this type of information in our research.
 SourceCodes contains the codebases for our projects. For example, inside the SourceCodes folder, the source code for our first project is shown as Project1. 
 BugIDs folder contains the information about bug reports which belong to which category. They are as follows:
 BugIDSFinal.txt - it contains IDs of all bug reports that are eligible for our experiments. The format is ProjectID-BugID. For example, 351-627  means the project is 351 and the bug report id is 627.
