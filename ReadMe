@@ -43,7 +43,9 @@ GroundTruths contains ground truth file information (i.e., gold set). For exampl
 		File2
 		….
 CKeys contains all files’ key information.
+
 corpus_class folder contains source code files without preprocessing. 
+
 Corpus_class_python contains the pre-processed version of the source codes.
 
 
