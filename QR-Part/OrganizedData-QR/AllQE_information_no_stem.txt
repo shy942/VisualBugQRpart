@@ -1,0 +1,3 @@
+ProjectID,TotalBugs,ConsideredBugs,GroundtruthFiles,QE_Improvement,QE_Preserved,QE_Worsened
+1,65,60,57,11,43,6
+1,65,60,57,11,43,6
