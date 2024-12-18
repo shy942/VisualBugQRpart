@@ -3,6 +3,6 @@ You will find UI bug IDs in the folder "/BugIDs/UItext.txt"
 
 First, construct two types of content for each bug report -
   i) title and description (i.e., T+D), and 
-  ii) title, and image content (i.e., T+D+I). 
+  ii) title, and image content (i.e., T+I). 
 
 Second, we reformulate both contents using the BLIZZARD [26] tool and combine them.
